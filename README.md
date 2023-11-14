@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dawuuuu
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning how to multiSig
 - 💞️ I’m looking to collaborate on testnets, I enjoy learning about new networs.
 
 <!---
