@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawuuuu
 - 👀 I’m interested in crypto
-- 💞️ I’m looking to collaborate on testnets, I enjoy learning about new networs.
+- 💞️ I enjoy learning about new networs
 
 <!---
 Dawuuuu/Dawuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
